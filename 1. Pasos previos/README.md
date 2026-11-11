@@ -165,7 +165,7 @@ Y por aquí un vídeo del montaje y del LED variando su luminosidad girando el p
 
 Este reto corresponde al apartado 6 de la página con contenido y ayuda sobre Arduino que no proporcionó nuestro profesor. [Pincha aquí para más información](https://kio4.com/arduino/6pwm.htm) 
 
-# Reto no dirigido 1: Encendido progresivo de 5 diodods LED usando un potenciómetro.
+# Reto no dirigido 1: Encendido progresivo de 5 diodos LED usando un potenciómetro.
 
 Para esta práctica no dirigida (sin ayuda del profesor), hemos aplicado todo lo visto anteriormente y aplicando un par de cosas nuevas. De lo que se trataba esta práctica era de encender poco a poco cada uno de los 5 diodos utilizados, utilizando también el PWM y el potenciómetro para que se fueran encendiendo progresivamente (aumentando su intensidad de luz). 
 
