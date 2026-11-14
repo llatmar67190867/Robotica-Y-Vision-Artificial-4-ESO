@@ -27,6 +27,12 @@ Como podemos observar, los diodos tienen dos patillas. Fuera de la simulación, 
 
 [![](https://img.youtube.com/vi/2f6OHwZokGQ/0.jpg)](https://www.youtube.com/watch?v=2f6OHwZokGQ)
 
+Aquí podemos ver el diagrama de flujo del programa. Este, también conocido como flujograma, es la representación gráfica de un proceso, sistema o algoritmo. Muestra de forma visual y ordenada los pasos sucesivos que se deben seguir para completar una tarea o resolver un problema. Aquí lo podemos ver, tiene diferentes apartados, que definen cada comando del programa. Aquí lo vemos: 
+
+<p align="center">
+<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO 1.png" width="450" height="400" />
+</p>
+
 Este reto corresponde al apartado 2 de la página con contenido y ayuda sobre Arduino que no proporcionó nuestro profesor. [Pincha aquí para más información]((https://kio4.com/arduino/2protoboard.htm))
 
 
@@ -79,9 +85,8 @@ Como podemos observar, tenemos los mismos dos diodos que en la práctica anterio
 [![](https://img.youtube.com/vi/-WE_l8MV6Dg/0.jpg)](https://www.youtube.com/watch?v=-WE_l8MV6Dg)
 
 <p align="center">
-<img src="Imágenes/Diagrama de Flujo Reto 2.png" width="400" height="450" />
+<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO 2.png" width="450" height="400" />
 </p>
-
 
 Este reto corresponde al apartado 3 de la página con contenido y ayuda sobre Arduino que no proporcionó nuestro profesor. [Pincha aquí para más información](https://kio4.com/arduino/3entradasalida.htm)
 
@@ -113,6 +118,12 @@ Y aquí tenemos un vídeo de cómo funciona el montaje y cómo se ven en el moni
 
 [![](https://img.youtube.com/vi/u_LzLcUyPQk/0.jpg)](https://www.youtube.com/watch?v=u_LzLcUyPQk)
 
+Aquí vemos finalmente el diagrama de flujo del programa:
+
+<p align="center">
+<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO 3.png" width="450" height="400" />
+</p>
+
 Este reto corresponde al apartado 5 de la página con contenido y ayuda sobre Arduino que no proporcionó nuestro profesor. [Pincha aquí para más información](https://kio4.com/arduino/5potenciometro.htm)
 
 # Reto 4: Mapeado de valores con potenciómetro
@@ -132,6 +143,13 @@ No muestro el montaje en este caso porque es el mismo que el del reto 3, se pued
 Y aquí un vídeo de como funciona con el monitor serie:
 
 [![](https://img.youtube.com/vi/FqHJXZcOIXY/0.jpg)](https://www.youtube.com/watch?v=FqHJXZcOIXY)
+
+Aquí vemos finalmente el diagrama de flujo del programa:
+
+<p align="center">
+<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO 4.png" width="450" height="400" />
+</p>
+
 
 Este reto corresponde al apartado 5b de la página con contenido y ayuda sobre Arduino que no proporcionó nuestro profesor. [Pincha aquí para más información](https://kio4.com/arduino/5b_mapear.htm) 
 
@@ -162,6 +180,13 @@ También observamos el montaje del reto:
 Y por aquí un vídeo del montaje y del LED variando su luminosidad girando el potenciómetro:
 
 [![](https://img.youtube.com/vi/ZORLppsyEgE/0.jpg)](https://www.youtube.com/watch?v=ZORLppsyEgE)
+
+Aquí vemos finalmente el diagrama de flujo del programa:
+
+<p align="center">
+<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO 5.png" width="450" height="400" />
+</p>
+
 
 Este reto corresponde al apartado 6 de la página con contenido y ayuda sobre Arduino que no proporcionó nuestro profesor. [Pincha aquí para más información](https://kio4.com/arduino/6pwm.htm) 
 
@@ -245,6 +270,13 @@ Y por aquí un vídeo del funcionamiento en vivo del reto:
 
 [![](https://img.youtube.com/vi/EXzA4VjIh4Y/0.jpg)](https://www.youtube.com/watch?v=EXzA4VjIh4Y)
 
+Aquí vemos finalmente el diagrama de flujo del programa:
+
+<p align="center">
+<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO 6.png" width="450" height="400" />
+</p>
+
+
 Este reto corresponde al apartado 25 de la página con contenido y ayuda sobre Arduino que no proporcionó nuestro profesor. [Pincha aquí para más información](https://kio4.com/arduino/25ultrasonido.htm) 
 
 # Reto no dirigido 2: Regular intensidad del LED según la distancia que lea el sensor ultrasónico
@@ -265,6 +297,13 @@ Aquí tenemos una imagen del código completo:
 Y un vídeo del funcionamiento de la práctica:
 
 [![](https://img.youtube.com/vi/SiIxkbmg7vo/0.jpg)](https://www.youtube.com/watch?v=SiIxkbmg7vo)
+
+Aquí vemos finalmente el diagrama de flujo del programa:
+
+<p align="center">
+<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO NO DIRIGIDO 2.png" width="450" height="400" />
+</p>
+
 
 Esta vez no incluyo ninguna foto de montaje ya que es el mismo que en el reto 6, así que más arriba podemos observar la imagen.
 
@@ -292,6 +331,13 @@ Aquí tenemos una imagen del montaje de la práctica:
 Un vídeo del funcionamiento de la misma: 
 
 [![](https://img.youtube.com/vi/s4ylDUbXwsg/0.jpg)](https://www.youtube.com/watch?v=s4ylDUbXwsg)
+
+Aquí vemos finalmente el diagrama de flujo del programa:
+
+<p align="center">
+<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO NO DIRIGIDO 3.png" width="450" height="400" />
+</p>
+
 
 
 
