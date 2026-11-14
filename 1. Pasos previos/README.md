@@ -301,7 +301,7 @@ Y un vídeo del funcionamiento de la práctica:
 Aquí vemos finalmente el diagrama de flujo del programa:
 
 <p align="center">
-<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO NO DIRIGIDO 2.png" width="450" height="400" />
+<img src="Imágenes/Diagramas de flujo/RETO NO DIRIGIDO 2.png" width="450" height="400" />
 </p>
 
 
@@ -335,7 +335,7 @@ Un vídeo del funcionamiento de la misma:
 Aquí vemos finalmente el diagrama de flujo del programa:
 
 <p align="center">
-<img src="Imágenes/Diagramas de flujo/DIAGRAMA RETO NO DIRIGIDO 3.png" width="450" height="400" />
+<img src="Imágenes/Diagramas de flujo/RETO NO DIRIGIDO 3.png" width="450" height="400" />
 </p>
 
 
